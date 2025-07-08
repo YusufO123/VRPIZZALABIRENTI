@@ -1,0 +1,1 @@
+// Oyuncu hareket scripti (otomatik yürüme + VR kafa yönü)

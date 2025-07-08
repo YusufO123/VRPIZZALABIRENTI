@@ -1,0 +1,1 @@
+// Pizza düşman yapay zeka scripti
